@@ -21,7 +21,7 @@ class Config(object):
     # Array to store users who are authorized to use the bot
 
     # File /video download location
-    DOWNLOAD_LOCATION = "./DOWNLOADS"
+    DOWNLOAD_LOCATION = "./downld"
 
     # Telegram maximum file upload size
     TG_MAX_FILE_SIZE = 4194304000
